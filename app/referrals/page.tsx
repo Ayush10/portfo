@@ -66,13 +66,13 @@ export default function ReferralsPage() {
     {
       step: '3',
       title: 'Request Referral',
-      description: 'Reach out with your resume and a brief note about why you\'re interested in the role.',
+      description: "Reach out with your resume and a brief note about why you're interested in the role.",
       icon: '📧',
     },
     {
       step: '4',
       title: 'Submit Application',
-      description: 'I\'ll submit your referral and you\'ll receive guidance on the interview process.',
+      description: "I'll submit your referral and you'll receive guidance on the interview process.",
       icon: '✅',
     },
   ];

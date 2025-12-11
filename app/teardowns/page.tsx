@@ -3,7 +3,7 @@ export default function TeardownsPage() {
     {
       product: 'Notion',
       category: 'Productivity',
-      description: 'Deep dive into Notion\'s product strategy, onboarding flow, and viral growth mechanisms.',
+      description: "Deep dive into Notion's product strategy, onboarding flow, and viral growth mechanisms.",
       highlights: ['Flexible workspace design', 'Template marketplace strategy', 'Freemium model analysis'],
       gradient: 'from-blue-500 to-cyan-500',
       icon: '📝',
@@ -11,7 +11,7 @@ export default function TeardownsPage() {
     {
       product: 'Spotify',
       category: 'Music Streaming',
-      description: 'Analysis of Spotify\'s recommendation engine, personalization features, and user retention strategies.',
+      description: "Analysis of Spotify's recommendation engine, personalization features, and user retention strategies.",
       highlights: ['ML-powered recommendations', 'Discover Weekly success', 'Social features impact'],
       gradient: 'from-green-500 to-emerald-500',
       icon: '🎵',
@@ -19,7 +19,7 @@ export default function TeardownsPage() {
     {
       product: 'Airbnb',
       category: 'Marketplace',
-      description: 'Examining Airbnb\'s trust-building features, host/guest experience, and marketplace dynamics.',
+      description: "Examining Airbnb's trust-building features, host/guest experience, and marketplace dynamics.",
       highlights: ['Two-sided marketplace balance', 'Trust & safety features', 'Dynamic pricing model'],
       gradient: 'from-pink-500 to-rose-500',
       icon: '🏠',
@@ -27,7 +27,7 @@ export default function TeardownsPage() {
     {
       product: 'Duolingo',
       category: 'EdTech',
-      description: 'Breakdown of Duolingo\'s gamification strategy, engagement loops, and monetization approach.',
+      description: "Breakdown of Duolingo's gamification strategy, engagement loops, and monetization approach.",
       highlights: ['Gamification mechanics', 'Streak psychology', 'Freemium to premium conversion'],
       gradient: 'from-purple-500 to-pink-500',
       icon: '🦉',
@@ -35,7 +35,7 @@ export default function TeardownsPage() {
     {
       product: 'Figma',
       category: 'Design Tools',
-      description: 'Analyzing Figma\'s collaboration features, plugin ecosystem, and product-led growth strategy.',
+      description: "Analyzing Figma's collaboration features, plugin ecosystem, and product-led growth strategy.",
       highlights: ['Real-time collaboration', 'Plugin marketplace', 'Bottom-up adoption'],
       gradient: 'from-indigo-500 to-blue-500',
       icon: '🎨',
@@ -43,7 +43,7 @@ export default function TeardownsPage() {
     {
       product: 'ChatGPT',
       category: 'AI',
-      description: 'Exploring ChatGPT\'s UX decisions, conversation design, and rapid scaling strategies.',
+      description: "Exploring ChatGPT's UX decisions, conversation design, and rapid scaling strategies.",
       highlights: ['Conversational UI patterns', 'Context management', 'Viral adoption tactics'],
       gradient: 'from-orange-500 to-red-500',
       icon: '🤖',
